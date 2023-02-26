@@ -106,7 +106,7 @@ before proceeding. The data type for the `birthdate` should now be `datetime`.
 ## Resources
 
 - [Active Record Migrations][guide-migrations]
-- [Active Record Basics][active_record_basics]
+- [Active Record Basics][active_record_basics
 
 [guide-migrations]: https://guides.rubyonrails.org/active_record_migrations.html
 [active_record_basics]: http://guides.rubyonrails.org/active_record_basics.html
